@@ -1,7 +1,11 @@
 # Socket.tech audits
 
-Find all audit reports for Socket.tech (previously Movr Network) in this repository. 
+Find all audit reports for Socket.tech in this repository.
 
 ### Contents : 
-1. [Socket Registry audit by PeckShield](https://github.com/SocketDotTech/audits/blob/c357981ecbd9f070bedd9260c2ec0d7726f820b4/Socket/Socket%20Liquidity%20Layer%20(prev.%20FundMovr)-Audit-Report-By-PeckShield.pdf)
-2. [SocketGateway audit by Consensys Diligence](https://consensys.net/diligence/audits/2023/02/socket)
+1. [Registry by PeckShield](Socket-LL/02-2023%20-%20Gateway%20-%20Consensys%20Diligence.pdf)
+2. [Gateway by Consensys Diligence](Socket-LL/02-2023%20-%20Gateway%20-%20Consensys%20Diligence.pdf)
+3. [Data Layer by Zellic](Socket-DL/07-2023%20-%20Data%20Layer%20-%20Zellic.pdf)
+4. [Data Layer Core by Hexens](Socket-DL/08-2023%20-%20Data%20Layer%20Core%20-%20Hexens.pdf)
+5. [Super Bridge by Hexnes](Socket-DL/08-2023%20-%20Super%20Bridge%20-%20Hexens.pdf)
+6. [Super Token by Hexens](Socket-DL/01-2024%20-%20Super%20Token%20-%20Hexens.pdf)
