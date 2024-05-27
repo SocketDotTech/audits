@@ -9,4 +9,4 @@ Find all audit reports for Socket.tech in this repository.
 4. [Data Layer Core by Hexens](Socket-DL/08-2023%20-%20Data%20Layer%20Core%20-%20Hexens.pdf)
 5. [Super Bridge by Hexnes](Socket-DL/08-2023%20-%20Super%20Bridge%20-%20Hexens.pdf)
 6. [Super Token by Hexens](Socket-DL/01-2024%20-%20Super%20Token%20-%20Hexens.pdf)
-7. [Plugs system for Super Bridge and Token](03-2024%20-%20Supermodular%20Plugs%20-%20Hexens)
+7. [Plugs system for Super Bridge and Token](03-2024%20-%20Supermodular%20Plugs%20-%20Hexens.pdf)
